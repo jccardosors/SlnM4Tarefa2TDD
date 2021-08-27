@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AppCliente.Negocio
 {
-    class UsuarioAcao
+    public class UsuarioAcao
     {
     }
 }
