@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AppCliente.Models
+namespace AppCliente.Utils
 {
     public class ParametroRetorno
     {
